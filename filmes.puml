@@ -1,0 +1,13 @@
+@startuml
+class Filmes {
+    - titulo : String
+    - anoFilme : int
+    - genero : String
+    - diretor : String
+    - notaMedia : double
+}
+
+class AppFilmes {
+    + main(args:String[]) : void
+}
+@enduml
