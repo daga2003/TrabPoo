@@ -1,12 +1,12 @@
 import java.io.*;
-// FileReader → abrir o arquivo de texto.
-//BufferedReader → ler o arquivo linha por linha.
-//IOException → capturar possíveis erros na leitura do arquivo.
+// FileReader -> abrir o arquivo de texto.
+//BufferedReader -> ler o arquivo linha por linha.
+//IOException -> capturar possíveis erros na leitura do arquivo.
 
 import java.util.*;
-//ArrayList → armazenar todos os filmes lidos do arquivo.
-//Collections → para:
-//max() e min() → encontrar o filme com maior e menor nota.
+//ArrayList -> armazenar todos os filmes lidos do arquivo.
+//Collections -> para:
+//max() e min() -> encontrar o filme com maior e menor nota.
 //sort() → ordenar a lista de filmes pelo título.
 //Comparator → comparar filmes por nota ou título durante ordenações.
 
@@ -100,3 +100,4 @@ public class AppFilmes {
         }
     }
 }
+
