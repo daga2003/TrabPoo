@@ -1,0 +1,10 @@
+Pulp Fiction;1994;Crime;Quentin Tarantino;8.9
+Avengers: Infinity War;2018;Action;Anthony Russo & Joe Russo;8.5
+Casablanca;1942;Romance;Michael Curtiz;8.5
+Parasite;2019;Thriller;Bong Joon-ho;8.6
+Top Gun: Maverick;2022;Action;Joseph Kosinski;8.3
+Citizen Kane;1941;Drama;Orson Welles;8.3
+How to Train Your Dragon;2010;Animation;Dean DeBlois & Chris Sanders;8.1
+It's a Wonderful Life;1946;Drama;Frank Capra;8.6
+Mad Max: Fury Road;2015;Action;George Miller;8.1
+Mission: Impossible - Fallout;2018;Action;Christopher McQuarrie;7.8

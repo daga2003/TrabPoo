@@ -1,0 +1,10 @@
+The Godfather;1972;Crime;Francis Ford Coppola;9.2
+Star Wars: Episode V - The Empire Strikes Back;1980;Sci-Fi;Irvin Kershner;8.7
+The Dark Knight;2008;Action;Christopher Nolan;9.0
+Schindler's List;1993;Drama;Steven Spielberg;8.9
+The Lord of the Rings: The Fellowship of the Ring;2001;Fantasy;Peter Jackson;8.8
+The Matrix;1999;Sci-Fi;The Wachowskis;8.7
+The Shawshank Redemption;1994;Drama;Frank Darabont;9.3
+Forrest Gump;1994;Drama;Robert Zemeckis;8.8
+Goodfellas;1990;Crime;Martin Scorsese;8.7
+Inception;2010;Sci-Fi;Christopher Nolan;8.8
