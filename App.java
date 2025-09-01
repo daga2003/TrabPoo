@@ -7,8 +7,8 @@ import java.util.*;
 //ArrayList -> armazenar todos os filmes lidos do arquivo.
 //Collections -> para:
 //max() e min() -> encontrar o filme com maior e menor nota.
-//sort() → ordenar a lista de filmes pelo título.
-//Comparator → comparar filmes por nota ou título durante ordenações.
+//sort() -> ordenar a lista de filmes pelo título.
+//Comparator -> comparar filmes por nota ou título durante ordenações.
 
 /**
  * Classe principal da aplicação de gerenciamento de filmes.
@@ -100,4 +100,5 @@ public class AppFilmes {
         }
     }
 }
+
 
